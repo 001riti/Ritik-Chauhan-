@@ -16,23 +16,4 @@ int main() {
 
     return 0;
 }
-``"
 
-
-This program uses:
-
-
-1. Bitwise operations for binary conversion.
-2. `printf()` format specifiers `%X` for hexadecimal and `%o` for octal.
-
-
-*Example Use Case*
-
-
-```
-Enter a decimal number: 12
-Binary: 00000000000000000000000000001100
-Hexadecimal: 0xC
-Octal: 014
-```
-```
